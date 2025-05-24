@@ -1,6 +1,6 @@
 SUBDIRS = config doc po shell-completion src
 
-EXTRA_DIST = \
+EXTRA_DIST = m4/ChangeLog  \
 	.flake8 \
 	CODE_OF_CONDUCT.md \
 	COPYING \
